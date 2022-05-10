@@ -1,0 +1,516 @@
+banana1.jpg
+613280
+Time for iter unary potent calc = 79.48149490356445 s
+Number of edges = 1227680
+Iteration-1, Mincut value = 2501871.6970012696
+613280
+Time for iter unary potent calc = 77.94366383552551 s
+Number of edges = 1227680
+Iteration-2, Mincut value = 2411962.7279268675
+613280
+Time for iter unary potent calc = 79.20557045936584 s
+Number of edges = 1227680
+Iteration-3, Mincut value = 2409445.581042255
+Time taken overall = 305.4514093399048 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.6821354166666667, 0.4462327174566448, 0.6170966982981727]
+------------------------------------------------------------------------------------------------------------------------
+banana2.jpg
+613280
+Time for iter unary potent calc = 84.74890875816345 s
+Number of edges = 1227680
+Iteration-1, Mincut value = 3144604.5019362695
+613280
+Time for iter unary potent calc = 89.65476274490356 s
+Number of edges = 1227680
+Iteration-2, Mincut value = 3019859.613103635
+613280
+Time for iter unary potent calc = 88.86440134048462 s
+Number of edges = 1227680
+Iteration-3, Mincut value = 3014022.980752403
+Time taken overall = 333.7751741409302 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.9923697916666666, 0.9683076215843485, 0.9838986660072264]
+------------------------------------------------------------------------------------------------------------------------
+banana3.jpg
+613280
+Time for iter unary potent calc = 87.57280015945435 s
+Number of edges = 1227680
+Iteration-1, Mincut value = 3281878.028935361
+613280
+Time for iter unary potent calc = 91.22829627990723 s
+Number of edges = 1227680
+Iteration-2, Mincut value = 3235232.0781506817
+613280
+Time for iter unary potent calc = 94.6828920841217 s
+Number of edges = 1227680
+Iteration-3, Mincut value = 3208914.413294626
+Time taken overall = 348.2014272212982 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.8688151041666666, 0.641949641949642, 0.7819358469330332]
+------------------------------------------------------------------------------------------------------------------------
+book.jpg
+613280
+Time for iter unary potent calc = 96.18053698539734 s
+Number of edges = 1227680
+Iteration-1, Mincut value = 2837814.652741218
+613280
+Time for iter unary potent calc = 100.85920596122742 s
+Number of edges = 1227680
+Iteration-2, Mincut value = 2710117.0100321635
+613280
+Time for iter unary potent calc = 96.3778989315033 s
+Number of edges = 1227680
+Iteration-3, Mincut value = 2697178.3773330846
+Time taken overall = 381.92506647109985 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.91455078125, 0.8120341131232411, 0.8962680197268589]
+------------------------------------------------------------------------------------------------------------------------
+bool.jpg
+467030
+Time for iter unary potent calc = 79.83933424949646 s
+Number of edges = 935030
+Iteration-1, Mincut value = 2220209.1278849323
+467030
+Time for iter unary potent calc = 80.90609216690063 s
+Number of edges = 935030
+Iteration-2, Mincut value = 2204645.8617149265
+467030
+Time for iter unary potent calc = 111.30529117584229 s
+Number of edges = 935030
+Iteration-3, Mincut value = 1959437.116921516
+Time taken overall = 339.0379762649536 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.4504188034188034, 0.18750829221447932, 0.3158012343051713]
+------------------------------------------------------------------------------------------------------------------------
+bush.jpg
+538950
+Time for iter unary potent calc = 56.34727692604065 s
+Number of edges = 1078950
+Iteration-1, Mincut value = 1631024.911037755
+538950
+Time for iter unary potent calc = 43.85358023643494 s
+Number of edges = 1078950
+Iteration-2, Mincut value = 1608816.5432998766
+538950
+Time for iter unary potent calc = 47.05355405807495 s
+Number of edges = 1078950
+Iteration-3, Mincut value = 1607065.3027294304
+Time taken overall = 229.81292295455933 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.8506777777777778, 0.5193891782993789, 0.6836815553480782]
+------------------------------------------------------------------------------------------------------------------------
+ceramic.jpg
+613280
+Time for iter unary potent calc = 81.62507390975952 s
+Number of edges = 1227680
+Iteration-1, Mincut value = 2569197.8866561456
+613280
+Time for iter unary potent calc = 81.96071743965149 s
+Number of edges = 1227680
+Iteration-2, Mincut value = 2510583.4835185385
+613280
+Time for iter unary potent calc = 83.37545013427734 s
+Number of edges = 1227680
+Iteration-3, Mincut value = 2492645.044591147
+Time taken overall = 312.61816000938416 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.7523600260416666, 0.5512434817488969, 0.7107117460727908]
+------------------------------------------------------------------------------------------------------------------------
+cross.jpg
+538950
+Time for iter unary potent calc = 36.9872043132782 s
+Number of edges = 1078950
+Iteration-1, Mincut value = 986281.5564276332
+538950
+Time for iter unary potent calc = 37.42901635169983 s
+Number of edges = 1078950
+Iteration-2, Mincut value = 934374.9537565195
+538950
+Time for iter unary potent calc = 38.1519718170166 s
+Number of edges = 1078950
+Iteration-3, Mincut value = 933875.6750708172
+Time taken overall = 160.4771285057068 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.7772814814814815, 0.4018957440248257, 0.5733603882282827]
+------------------------------------------------------------------------------------------------------------------------
+doll.jpg
+506265
+Time for iter unary potent calc = 88.62411046028137 s
+Number of edges = 1013541
+Iteration-1, Mincut value = 2905651.125874012
+506265
+Time for iter unary potent calc = 92.07582330703735 s
+Number of edges = 1013541
+Iteration-2, Mincut value = 2806584.940409082
+506265
+Time for iter unary potent calc = 82.39404273033142 s
+Number of edges = 1013541
+Iteration-3, Mincut value = 2787882.2216137047
+Time taken overall = 329.05432748794556 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.7054424021637137, 0.5509022710059029, 0.7104280924788279]
+------------------------------------------------------------------------------------------------------------------------
+elefant.jpg
+613280
+Time for iter unary potent calc = 91.44229340553284 s
+Number of edges = 1227680
+Iteration-1, Mincut value = 2643084.298543436
+613280
+Time for iter unary potent calc = 95.47284030914307 s
+Number of edges = 1227680
+Iteration-2, Mincut value = 2576809.395282877
+613280
+Time for iter unary potent calc = 96.12449073791504 s
+Number of edges = 1227680
+Iteration-3, Mincut value = 2548032.4734519427
+Time taken overall = 352.5763647556305 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.7633268229166666, 0.5758703565428411, 0.7308600661874125]
+------------------------------------------------------------------------------------------------------------------------
+flower.jpg
+538950
+Time for iter unary potent calc = 53.064064264297485 s
+Number of edges = 1078950
+Iteration-1, Mincut value = 1849056.0211628596
+538950
+Time for iter unary potent calc = 49.23841118812561 s
+Number of edges = 1078950
+Iteration-2, Mincut value = 1777606.7918179517
+538950
+Time for iter unary potent calc = 49.86145496368408 s
+Number of edges = 1078950
+Iteration-3, Mincut value = 1776938.6731452895
+Time taken overall = 209.19026374816895 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.9795666666666667, 0.9045072177796241, 0.9498595850260381]
+------------------------------------------------------------------------------------------------------------------------
+fullmoon.jpg
+308608
+/home/gokulvamsit/miniconda3/lib/python3.9/site-packages/sklearn/mixture/_base.py:143: ConvergenceWarning: Number of distinct clusters (1) found smaller than n_clusters (5). Possibly due to duplicate points in X.
+  cluster.KMeans(
+Time for iter unary potent calc = 14.927156925201416 s
+Number of edges = 618008
+Iteration-1, Mincut value = 123296.35248617326
+308608
+/home/gokulvamsit/miniconda3/lib/python3.9/site-packages/sklearn/mixture/_base.py:143: ConvergenceWarning: Number of distinct clusters (1) found smaller than n_clusters (5). Possibly due to duplicate points in X.
+  cluster.KMeans(
+Time for iter unary potent calc = 15.156596899032593 s
+Number of edges = 618008
+Iteration-2, Mincut value = 110382.60492438148
+308608
+/home/gokulvamsit/miniconda3/lib/python3.9/site-packages/sklearn/mixture/_base.py:143: ConvergenceWarning: Number of distinct clusters (1) found smaller than n_clusters (5). Possibly due to duplicate points in X.
+  cluster.KMeans(
+Time for iter unary potent calc = 14.774287462234497 s
+Number of edges = 618008
+Iteration-3, Mincut value = 110982.96084595945
+Time taken overall = 71.62213468551636 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.9707950872656755, 0.6736963744041601, 0.8050401311814965]
+------------------------------------------------------------------------------------------------------------------------
+grave.jpg
+538950
+Time for iter unary potent calc = 30.54890489578247 s
+Number of edges = 1078950
+Iteration-1, Mincut value = 847853.1715324473
+538950
+Time for iter unary potent calc = 29.446496963500977 s
+Number of edges = 1078950
+Iteration-2, Mincut value = 828229.8141163894
+538950
+Time for iter unary potent calc = 30.39638090133667 s
+Number of edges = 1078950
+Iteration-3, Mincut value = 826101.6124019155
+Time taken overall = 138.98464798927307 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.9416555555555556, 0.6674126464689116, 0.8005368651632754]
+------------------------------------------------------------------------------------------------------------------------
+llama.jpg
+379762
+Time for iter unary potent calc = 34.021260261535645 s
+Number of edges = 760408
+Iteration-1, Mincut value = 1072148.2269924914
+379762
+Time for iter unary potent calc = 35.85304307937622 s
+Number of edges = 760408
+Iteration-2, Mincut value = 1051412.3520927397
+379762
+Time for iter unary potent calc = 34.44596719741821 s
+Number of edges = 760408
+Iteration-3, Mincut value = 1050920.3890045634
+Time taken overall = 168.4515426158905 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.8646248745553612, 0.5571349994843412, 0.7155898488812354]
+------------------------------------------------------------------------------------------------------------------------
+memorial.jpg
+538950
+Time for iter unary potent calc = 45.322004079818726 s
+Number of edges = 1078950
+Iteration-1, Mincut value = 1340197.1682964675
+538950
+Time for iter unary potent calc = 45.71423578262329 s
+Number of edges = 1078950
+Iteration-2, Mincut value = 1302429.7738038506
+538950
+Time for iter unary potent calc = 43.01207375526428 s
+Number of edges = 1078950
+Iteration-3, Mincut value = 1292238.3477447452
+Time taken overall = 193.06862473487854 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.9894185185185185, 0.9432853598014889, 0.9708150736007681]
+------------------------------------------------------------------------------------------------------------------------
+music.jpg
+613280
+Time for iter unary potent calc = 74.69823908805847 s
+Number of edges = 1227680
+Iteration-1, Mincut value = 2238268.1060290853
+613280
+Time for iter unary potent calc = 73.36280179023743 s
+Number of edges = 1227680
+Iteration-2, Mincut value = 2156681.702315778
+613280
+Time for iter unary potent calc = 73.630038022995 s
+Number of edges = 1227680
+Iteration-3, Mincut value = 2157048.3465855406
+Time taken overall = 314.25682401657104 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.9857194010416667, 0.9605372049510651, 0.9798714378134334]
+------------------------------------------------------------------------------------------------------------------------
+person1.jpg
+538950
+Time for iter unary potent calc = 79.19404864311218 s
+Number of edges = 1078950
+Iteration-1, Mincut value = 2776614.9037591526
+538950
+Time for iter unary potent calc = 82.52044796943665 s
+Number of edges = 1078950
+Iteration-2, Mincut value = 2659496.52446093
+538950
+Time for iter unary potent calc = 81.1454246044159 s
+Number of edges = 1078950
+Iteration-3, Mincut value = 2656091.362975122
+Time taken overall = 293.670640707016 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.9911296296296296, 0.9692447960140228, 0.9843822342208398]
+------------------------------------------------------------------------------------------------------------------------
+person2.jpg
+538950
+Time for iter unary potent calc = 65.88957118988037 s
+Number of edges = 1078950
+Iteration-1, Mincut value = 2163274.4798439825
+538950
+Time for iter unary potent calc = 65.77823185920715 s
+Number of edges = 1078950
+Iteration-2, Mincut value = 2078599.3445711697
+538950
+Time for iter unary potent calc = 64.45090627670288 s
+Number of edges = 1078950
+Iteration-3, Mincut value = 2079851.6714831486
+Time taken overall = 254.60078811645508 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.9234074074074075, 0.6794046973102861, 0.8091018185174929]
+------------------------------------------------------------------------------------------------------------------------
+person3.jpg
+538950
+Time for iter unary potent calc = 36.99111247062683 s
+Number of edges = 1078950
+Iteration-1, Mincut value = 1216490.146122885
+538950
+Time for iter unary potent calc = 38.16257429122925 s
+Number of edges = 1078950
+Iteration-2, Mincut value = 1158403.2807514435
+538950
+Time for iter unary potent calc = 37.90110659599304 s
+Number of edges = 1078950
+Iteration-3, Mincut value = 1156144.7425403427
+Time taken overall = 160.98787784576416 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.9630925925925926, 0.7213600648715153, 0.8381280356069589]
+------------------------------------------------------------------------------------------------------------------------
+person4.jpg
+538950
+Time for iter unary potent calc = 75.01367926597595 s
+Number of edges = 1078950
+Iteration-1, Mincut value = 2751830.84750239
+538950
+Time for iter unary potent calc = 77.8244686126709 s
+Number of edges = 1078950
+Iteration-2, Mincut value = 2644228.398351965
+538950
+Time for iter unary potent calc = 77.22183847427368 s
+Number of edges = 1078950
+Iteration-3, Mincut value = 2635915.6832985464
+Time taken overall = 307.9327828884125 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.7222074074074074, 0.39299963581920444, 0.5642494451738842]
+------------------------------------------------------------------------------------------------------------------------
+person5.jpg
+538950
+Time for iter unary potent calc = 39.94352459907532 s
+Number of edges = 1078950
+Iteration-1, Mincut value = 1525981.3006972757
+538950
+Time for iter unary potent calc = 41.21566438674927 s
+Number of edges = 1078950
+Iteration-2, Mincut value = 1499196.1062706125
+538950
+Time for iter unary potent calc = 40.42803597450256 s
+Number of edges = 1078950
+Iteration-3, Mincut value = 1510922.7702015452
+Time taken overall = 167.54501700401306 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.8077888888888889, 0.2569264472158188, 0.4088169960699436]
+------------------------------------------------------------------------------------------------------------------------
+person6.jpg
+538950
+Time for iter unary potent calc = 34.8316445350647 s
+Number of edges = 1078950
+Iteration-1, Mincut value = 1167831.565571934
+538950
+Time for iter unary potent calc = 34.34121656417847 s
+Number of edges = 1078950
+Iteration-2, Mincut value = 1139969.7980004924
+538950
+Time for iter unary potent calc = 34.503068923950195 s
+Number of edges = 1078950
+Iteration-3, Mincut value = 1137132.0069955585
+Time taken overall = 154.63878464698792 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.9478518518518518, 0.6720165855249365, 0.8038396165956142]
+------------------------------------------------------------------------------------------------------------------------
+person7.jpg
+538950
+Time for iter unary potent calc = 26.584275484085083 s
+Number of edges = 1078950
+Iteration-1, Mincut value = 1028811.9864142807
+538950
+Time for iter unary potent calc = 26.97114062309265 s
+Number of edges = 1078950
+Iteration-2, Mincut value = 976752.6737694659
+538950
+Time for iter unary potent calc = 29.157655477523804 s
+Number of edges = 1078950
+Iteration-3, Mincut value = 982765.8455948192
+Time taken overall = 135.0860471725464 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.9973666666666666, 0.9623968690501375, 0.98083816197278]
+------------------------------------------------------------------------------------------------------------------------
+person8.jpg
+613280
+Time for iter unary potent calc = 80.64892745018005 s
+Number of edges = 1227680
+Iteration-1, Mincut value = 2827990.518022038
+613280
+Time for iter unary potent calc = 79.95791053771973 s
+Number of edges = 1227680
+Iteration-2, Mincut value = 2760168.917457755
+613280
+Time for iter unary potent calc = 78.39296388626099 s
+Number of edges = 1227680
+Iteration-3, Mincut value = 2740220.562189792
+Time taken overall = 331.57684445381165 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.7348860677083333, 0.41967364970785237, 0.5912255253793222]
+------------------------------------------------------------------------------------------------------------------------
+scissors.jpg
+613280
+Time for iter unary potent calc = 85.49279546737671 s
+Number of edges = 1227680
+Iteration-1, Mincut value = 3136693.8857125524
+613280
+Time for iter unary potent calc = 89.71362113952637 s
+Number of edges = 1227680
+Iteration-2, Mincut value = 3107279.7842991874
+613280
+Time for iter unary potent calc = 89.33070039749146 s
+Number of edges = 1227680
+Iteration-3, Mincut value = 3094078.5856224857
+Time taken overall = 337.26888704299927 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.7625944010416666, 0.30087808431910124, 0.462576913157216]
+------------------------------------------------------------------------------------------------------------------------
+sheep.jpg
+538950
+Time for iter unary potent calc = 28.572954893112183 s
+Number of edges = 1078950
+Iteration-1, Mincut value = 871049.922036702
+538950
+Time for iter unary potent calc = 28.56715202331543 s
+Number of edges = 1078950
+Iteration-2, Mincut value = 847192.6858355434
+538950
+Time for iter unary potent calc = 27.750593662261963 s
+Number of edges = 1078950
+Iteration-3, Mincut value = 847100.1022798831
+Time taken overall = 125.65107703208923 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.9956555555555555, 0.9219924187005387, 0.959413169094495]
+------------------------------------------------------------------------------------------------------------------------
+stone1.jpg
+613280
+Time for iter unary potent calc = 87.7341935634613 s
+Number of edges = 1227680
+Iteration-1, Mincut value = 1618014.5024316006
+613280
+Time for iter unary potent calc = 88.92907452583313 s
+Number of edges = 1227680
+Iteration-2, Mincut value = 1591433.2887859682
+613280
+Time for iter unary potent calc = 98.79129838943481 s
+Number of edges = 1227680
+Iteration-3, Mincut value = 1598923.2708053754
+Time taken overall = 362.69459557533264 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.8383072916666666, 0.5403251927187925, 0.7015728824964252]
+------------------------------------------------------------------------------------------------------------------------
+stone2.jpg
+613280
+Time for iter unary potent calc = 120.620187997818 s
+Number of edges = 1227680
+Iteration-1, Mincut value = 2154343.2463411954
+613280
+Time for iter unary potent calc = 117.14034533500671 s
+Number of edges = 1227680
+Iteration-2, Mincut value = 2055594.659054003
+613280
+Time for iter unary potent calc = 101.43948912620544 s
+Number of edges = 1227680
+Iteration-3, Mincut value = 2056782.844039351
+Time taken overall = 430.59914565086365 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.9963020833333334, 0.9849260900719196, 0.9924058079525095]
+------------------------------------------------------------------------------------------------------------------------
+teddy.jpg
+225382
+Time for iter unary potent calc = 40.58465003967285 s
+Number of edges = 451446
+Iteration-1, Mincut value = 709644.4347544513
+225382
+Time for iter unary potent calc = 41.927213191986084 s
+Number of edges = 451446
+Iteration-2, Mincut value = 661486.4993416817
+225382
+Time for iter unary potent calc = 41.36199879646301 s
+Number of edges = 451446
+Iteration-3, Mincut value = 644661.9091089055
+Time taken overall = 159.33248472213745 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.9936655106518508, 0.9703985447329254, 0.9849769198489299]
+------------------------------------------------------------------------------------------------------------------------
+tennis.jpg
+471028
+Time for iter unary potent calc = 56.14713144302368 s
+Number of edges = 943028
+Iteration-1, Mincut value = 1347857.9022378356
+471028
+Time for iter unary potent calc = 56.13060116767883 s
+Number of edges = 943028
+Iteration-2, Mincut value = 1301526.6874362933
+471028
+Time for iter unary potent calc = 56.249728202819824 s
+Number of edges = 943028
+Iteration-3, Mincut value = 1296802.4638199739
+Time taken overall = 237.30161666870117 secs
+------------------------------------------------------------------------------------------------------------------------
+[0.9305762711864407, 0.5272937103289094, 0.6904941816533172]
+------------------------------------------------------------------------------------------------------------------------
